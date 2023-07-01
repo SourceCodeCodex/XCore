@@ -16,7 +16,7 @@
          point="org.eclipse.ui.menus">
       <menuContribution
             allPopups="false"
-            locationURI="popup:org.eclipse.ui.popup.any?after=ValidationCommand">
+            locationURI="popup:org.eclipse.ui.popup.any?endof=additions">
          <command
                commandId="ro.lrg.insider.view.BrowseEntityAction"
                icon="res/lrglogo.png"

@@ -3,6 +3,7 @@ Bundle-ManifestVersion: 2
 Automatic-Module-Name: ro.lrg.insider
 Bundle-Name: Insider
 Bundle-SymbolicName: ro.lrg.insider;singleton:=true
+Bundle-Vendor: LOOSE Research Group
 Bundle-Version: 2.3.2
 Bundle-Activator: ro.lrg.insider.plugin.Activator
 Require-Bundle: org.eclipse.ui,
